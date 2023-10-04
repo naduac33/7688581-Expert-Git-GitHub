@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable  :
 
 ```
-Préparer son café, Boire son café, Se mettre au boulot
+Préparer son café, Boire son café, partir à la pêche
 
 ```
 
